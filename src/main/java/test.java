@@ -9,7 +9,6 @@ public class test {
         hashMap.put(1, 3);
 
         System.out.println(hashMap);
-aahi
     }
 
 }
