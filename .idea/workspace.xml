@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19f02199-6613-4e60-bcda-f2c44de6d9ea" name="Default Changelist" comment="" />
+    <list default="true" id="19f02199-6613-4e60-bcda-f2c44de6d9ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/test1$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +15,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -65,7 +78,14 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.test">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="spark_on_github" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test1" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="test1" />
       <module name="spark_on_github" />
@@ -75,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.test1" />
       </list>
     </recent_temporary>
@@ -107,21 +128,45 @@
       <updated>1578307599307</updated>
       <workItem from="1578307601315" duration="2375000" />
       <workItem from="1578311678148" duration="4000" />
+      <workItem from="1578320000814" duration="660000" />
     </task>
+    <task id="LOCAL-00001" summary="gdg">
+      <created>1578320156939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578320156939</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gdg">
+      <created>1578320233440</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578320233440</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gdg" />
+    <option name="LAST_COMMIT_MESSAGE" value="gdg" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="986" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1578320745298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="986" y="274" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578320745298" />
     <state x="802" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578309701278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="802" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578309701278" />
-    <state x="773" y="162" key="CommitChangelistDialog2" timestamp="1578320221019">
+    <state x="773" y="162" key="CommitChangelistDialog2" timestamp="1578320232399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="773" y="162" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578320221019" />
+    <state x="773" y="162" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578320232399" />
     <state x="959" y="286" key="FileChooserDialogImpl" timestamp="1578320018179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -134,22 +179,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1031" y="423" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578309243852" />
-    <state width="1317" height="227" key="GridCell.Tab.0.bottom" timestamp="1578309977826">
+    <state width="1317" height="227" key="GridCell.Tab.0.bottom" timestamp="1578320840681">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1317" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578309977826" />
-    <state width="1317" height="227" key="GridCell.Tab.0.center" timestamp="1578309977826">
+    <state width="1317" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578320840681" />
+    <state width="1317" height="227" key="GridCell.Tab.0.center" timestamp="1578320840681">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1317" height="227" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578309977826" />
-    <state width="1317" height="227" key="GridCell.Tab.0.left" timestamp="1578309977826">
+    <state width="1317" height="227" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578320840681" />
+    <state width="1317" height="227" key="GridCell.Tab.0.left" timestamp="1578320840681">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1317" height="227" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578309977826" />
-    <state width="1317" height="227" key="GridCell.Tab.0.right" timestamp="1578309977826">
+    <state width="1317" height="227" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578320840681" />
+    <state width="1317" height="227" key="GridCell.Tab.0.right" timestamp="1578320840681">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1317" height="227" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578309977826" />
+    <state width="1317" height="227" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578320840681" />
     <state x="819" y="231" key="NewModule_or_Project.wizard" timestamp="1578309133473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -158,6 +203,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="682" y="173" width="1139" height="710" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578309373608" />
+    <state x="773" y="302" key="Vcs.Push.Dialog.v2" timestamp="1578320658527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="302" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578320658527" />
     <state x="842" y="276" width="672" height="678" key="search.everywhere.popup" timestamp="1578309423456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
