@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19f02199-6613-4e60-bcda-f2c44de6d9ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/one/src/main/scala/test2.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +77,11 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\SSDData\data\idea3\spark_on_github\one\src" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.test">
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
@@ -129,6 +134,7 @@
       <workItem from="1578311678148" duration="4000" />
       <workItem from="1578320000814" duration="2184000" />
       <workItem from="1578357222109" duration="2240000" />
+      <workItem from="1578370445480" duration="528000" />
     </task>
     <task id="LOCAL-00001" summary="gdg">
       <created>1578320156939</created>
@@ -172,7 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578322592165</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ffff">
+      <created>1578370484121</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578370484121</updated>
+    </task>
+    <task id="LOCAL-00008" summary="one2020年1月7日12:17:24">
+      <created>1578370656315</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578370656315</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +201,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gdg" />
     <MESSAGE value="ffff" />
-    <option name="LAST_COMMIT_MESSAGE" value="ffff" />
+    <MESSAGE value="one2020年1月7日12:17:24" />
+    <option name="LAST_COMMIT_MESSAGE" value="one2020年1月7日12:17:24" />
   </component>
   <component name="WindowStateProjectService">
     <state x="986" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1578320745298">
@@ -192,10 +213,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="802" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578309701278" />
-    <state x="773" y="162" key="CommitChangelistDialog2" timestamp="1578370542765">
+    <state x="773" y="162" key="CommitChangelistDialog2" timestamp="1578370654815">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="773" y="162" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578370542765" />
+    <state x="773" y="162" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578370654815" />
     <state x="959" y="286" key="FileChooserDialogImpl" timestamp="1578320018179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -236,10 +257,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="682" y="173" width="1139" height="710" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578309373608" />
-    <state x="773" y="302" key="Vcs.Push.Dialog.v2" timestamp="1578322605693">
+    <state x="773" y="302" key="Vcs.Push.Dialog.v2" timestamp="1578371003297">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="773" y="302" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578322605693" />
+    <state x="773" y="302" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578371003297" />
     <state x="593" y="224" width="1177" height="684" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578322717417">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
