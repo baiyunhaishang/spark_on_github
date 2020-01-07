@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19f02199-6613-4e60-bcda-f2c44de6d9ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/one/src/main/scala/test2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/src/main/java/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/src/main/scala/test1.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/src/main/scala/test2.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,18 +61,21 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1W1CE8fygH2vsZjh2A6kBiZxCkS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/two" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -78,29 +88,58 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\SSDData\data\idea3\spark_on_github\two" />
+      <recent name="I:\SSDData\data\idea3\spark_on_github\two\src\main" />
+      <recent name="I:\SSDData\data\idea3\spark_on_github\one" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="I:\SSDData\data\idea3\spark_on_github\one\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.test0">
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="spark_on_github" />
+      <module name="one" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true">
+    <configuration name="test0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test0" />
+      <module name="two" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test1" />
-      <module name="spark_on_github" />
+      <module name="two" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="test2" />
+      <module name="one" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="test3" />
+      <module name="one" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.test0" />
         <item itemvalue="Application.test1" />
+        <item itemvalue="Application.test2" />
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +173,9 @@
       <workItem from="1578311678148" duration="4000" />
       <workItem from="1578320000814" duration="2184000" />
       <workItem from="1578357222109" duration="2240000" />
-      <workItem from="1578370445480" duration="528000" />
+      <workItem from="1578370445480" duration="1379000" />
+      <workItem from="1578382617070" duration="514000" />
+      <workItem from="1578391392566" duration="1178000" />
     </task>
     <task id="LOCAL-00001" summary="gdg">
       <created>1578320156939</created>
@@ -192,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578370656315</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2020年1月7日12:24:12">
+      <created>1578371058833</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578371058833</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,21 +250,22 @@
     <MESSAGE value="gdg" />
     <MESSAGE value="ffff" />
     <MESSAGE value="one2020年1月7日12:17:24" />
-    <option name="LAST_COMMIT_MESSAGE" value="one2020年1月7日12:17:24" />
+    <MESSAGE value="2020年1月7日12:24:12" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年1月7日12:24:12" />
   </component>
   <component name="WindowStateProjectService">
     <state x="986" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1578320745298">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="986" y="274" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578320745298" />
-    <state x="802" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578309701278">
+    <state x="802" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578383033706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="802" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578309701278" />
-    <state x="773" y="162" key="CommitChangelistDialog2" timestamp="1578370654815">
+    <state x="802" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578383033706" />
+    <state x="773" y="162" key="CommitChangelistDialog2" timestamp="1578371057460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="773" y="162" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578370654815" />
+    <state x="773" y="162" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578371057460" />
     <state x="959" y="286" key="FileChooserDialogImpl" timestamp="1578320018179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -229,22 +278,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1031" y="423" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578309243852" />
-    <state width="1317" height="227" key="GridCell.Tab.0.bottom" timestamp="1578320840681">
+    <state width="1210" height="228" key="GridCell.Tab.0.bottom" timestamp="1578392717351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1317" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578320840681" />
-    <state width="1317" height="227" key="GridCell.Tab.0.center" timestamp="1578320840681">
+    <state width="1210" height="228" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578392717351" />
+    <state width="1210" height="228" key="GridCell.Tab.0.center" timestamp="1578392717351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1317" height="227" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578320840681" />
-    <state width="1317" height="227" key="GridCell.Tab.0.left" timestamp="1578320840681">
+    <state width="1210" height="228" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578392717351" />
+    <state width="1210" height="228" key="GridCell.Tab.0.left" timestamp="1578392717350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1317" height="227" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578320840681" />
-    <state width="1317" height="227" key="GridCell.Tab.0.right" timestamp="1578320840681">
+    <state width="1210" height="228" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578392717350" />
+    <state width="1210" height="228" key="GridCell.Tab.0.right" timestamp="1578392717351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1317" height="227" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578320840681" />
+    <state width="1210" height="228" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578392717351" />
     <state x="761" y="303" key="IDE.errors.dialog" timestamp="1578322702115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -257,10 +306,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="682" y="173" width="1139" height="710" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578309373608" />
-    <state x="773" y="302" key="Vcs.Push.Dialog.v2" timestamp="1578371003297">
+    <state x="773" y="302" key="Vcs.Push.Dialog.v2" timestamp="1578371074320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="773" y="302" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578371003297" />
+    <state x="773" y="302" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578371074320" />
     <state x="593" y="224" width="1177" height="684" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578322717417">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -269,10 +318,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="976" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578321042117" />
-    <state x="583" y="174" key="new project wizard" timestamp="1578370565643">
+    <state x="583" y="174" key="new project wizard" timestamp="1578391494340">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="583" y="174" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578370565643" />
+    <state x="583" y="174" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578391494340" />
     <state x="842" y="276" width="672" height="678" key="search.everywhere.popup" timestamp="1578309423456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
