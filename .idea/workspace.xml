@@ -62,6 +62,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -191,10 +192,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="802" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578309701278" />
-    <state x="773" y="162" key="CommitChangelistDialog2" timestamp="1578322590769">
+    <state x="773" y="162" key="CommitChangelistDialog2" timestamp="1578370542765">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="773" y="162" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578322590769" />
+    <state x="773" y="162" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578370542765" />
     <state x="959" y="286" key="FileChooserDialogImpl" timestamp="1578320018179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -247,6 +248,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="976" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578321042117" />
+    <state x="583" y="174" key="new project wizard" timestamp="1578370565643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="174" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578370565643" />
     <state x="842" y="276" width="672" height="678" key="search.everywhere.popup" timestamp="1578309423456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

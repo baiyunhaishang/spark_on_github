@@ -6,7 +6,11 @@
 
     <groupId>com.baiyun</groupId>
     <artifactId>spark_on_github</artifactId>
+    <packaging>pom</packaging>
     <version>1.0</version>
+    <modules>
+        <module>one</module>
+    </modules>
     <dependencies>
         <dependency>
             <groupId>org.apache.spark</groupId>
