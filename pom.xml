@@ -11,6 +11,7 @@
     <modules>
         <module>two</module>
         <module>three</module>
+        <module>Spark-core</module>
     </modules>
     <dependencies>
         <dependency>
