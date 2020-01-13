@@ -1,7 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19f02199-6613-4e60-bcda-f2c44de6d9ea" name="Default Changelist" comment="">
+    <list default="true" id="19f02199-6613-4e60-bcda-f2c44de6d9ea" name="Default Changelist" comment="2020年1月12日9:57:57">
+      <change afterPath="$PROJECT_DIR$/Spark-core/Spark-core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/out/CategoryTop10S_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/out/aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/out/b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/out/c_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/out/cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/out/dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/out/learningScala.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/out/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/src/main/scala/com/bai/CategoryAcc.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/src/main/scala/com/bai/app/CategoryTop10SessionApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/src/main/scala/com/bai/app/CategoryTopApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/src/main/scala/com/bai/app/MyApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/src/main/scala/com/bai/app/PageConversionApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/src/main/scala/com/bai/bean/CategoryCountInfo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/src/main/scala/com/bai/bean/SessionInfo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/src/main/scala/com/bai/bean/UserVisitAction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/src/main/scala/day5/MyPrint.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/src/main/scala/day5/test1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/src/main/scala/day5/test2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/src/main/scala/day5/test3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/src/main/scala/readAllDir.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/src/main/scala/readAllDirAndFile.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/META-INF/Spark-core.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/CategoryAcc$$anonfun$add$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/CategoryAcc$$anonfun$add$2$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/CategoryAcc$$anonfun$add$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/CategoryAcc$$anonfun$add$3$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/CategoryAcc$$anonfun$add$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/CategoryAcc$$anonfun$merge$1$$anonfun$apply$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/CategoryAcc$$anonfun$merge$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/CategoryAcc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryPartition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$22$$anonfun$apply$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$25.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$26.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$27$$anonfun$apply$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$27$$anonfun$apply$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$27.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$9$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$calCategorySessionTop10$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$calCategorySessionTop10_1$1$$anonfun$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$calCategorySessionTop10_1$1$$anonfun$13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$calCategorySessionTop10_1$1$$anonfun$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$calCategorySessionTop10_1$1$$anonfun$15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$calCategorySessionTop10_1$1$$anonfun$16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$calCategorySessionTop10_1$1$$anonfun$17$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$calCategorySessionTop10_1$1$$anonfun$17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$calCategorySessionTop10_1$1$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$calCategorySessionTop10_1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$calCategorySessionTop10_2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$$anonfun$calCategorySessionTop10_3$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTop10SessionApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTopApp$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTopApp$$anonfun$2$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTopApp$$anonfun$2$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTopApp$$anonfun$2$$anonfun$apply$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTopApp$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTopApp$$anonfun$statCategoryTop10$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTopApp$$anonfun$statCategoryTop10$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTopApp$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/CategoryTopApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/MyApp$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/MyApp$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/MyApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/PageConversionApp$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/PageConversionApp$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/PageConversionApp$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/PageConversionApp$$anonfun$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/PageConversionApp$$anonfun$5$$anonfun$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/PageConversionApp$$anonfun$5$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/PageConversionApp$$anonfun$5$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/PageConversionApp$$anonfun$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/PageConversionApp$$anonfun$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/PageConversionApp$$anonfun$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/PageConversionApp$$anonfun$statPageConversionRate$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/PageConversionApp$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/app/PageConversionApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/bean/CategoryCountInfo$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/bean/CategoryCountInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/bean/SessionInfo$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/bean/SessionInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/bean/UserVisitAction$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/com/bai/bean/UserVisitAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/MyPrint$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/MyPrint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/test1$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/test1$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/test1$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/test2$$anonfun$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/test2$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/test2$$anonfun$2$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/test2$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/test2$$anonfun$four$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/test2$$anonfun$four$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/test2$$anonfun$one$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/test2$$anonfun$three$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/test2$$anonfun$two$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/test2$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/test3$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/day5/test3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/readAllDir$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/readAllDir$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/readAllDir$$anonfun$subDir$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/readAllDir$$anonfun$subDir$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/readAllDir$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/readAllDir.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/readAllDirAndFile$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/readAllDirAndFile$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/readAllDirAndFile$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/readAllDirAndFile$$anonfun$subDir$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/readAllDirAndFile$$anonfun$subDir$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/readAllDirAndFile$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spark-core/target/classes/readAllDirAndFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/input/a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/input/city_info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/input/d5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/src/main/scala/CreateDS.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/src/main/scala/day2/jdbcread.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/src/main/scala/day2/test2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/src/main/scala/day2/udf.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/src/main/scala/test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/CreateDS$$typecreator2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/CreateDS$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/CreateDS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/Person$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/day2/MySum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/day2/test2$$anonfun$one$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/day2/test2$$anonfun$two$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/day2/test2$$anonfun$two$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/day2/test2$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/day2/test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/day2/udf$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/day2/udf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/test$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/test$$typecreator1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/test$$typecreator2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/test$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/target/classes/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming/src/main/scala/WordCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming/src/main/scala/kafka/WordCount1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming/target/classes/WordCount$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming/target/classes/WordCount$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming/target/classes/WordCount$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming/target/classes/WordCount$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming/target/classes/WordCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-streaming/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -15,13 +192,54 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@hadoop102" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@hadoop102" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@hadoop102" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="default: schema" type="31331dd0:HiveImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@hadoop102" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sql0830: schema" type="31331dd0:HiveImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@hadoop102" type="feb32156:DbDataSourceImpl" />
+        <item name="roles" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Package Object" />
         <option value="Scala Object" />
         <option value="Scala Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -45,6 +263,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
         <option name="localRepository" value="C:\SoftwareTools\apache-maven-3.5.3\repository" />
         <option name="mavenHome" value="C:/SoftwareTools/apache-maven-3.5.3" />
         <option name="userSettingsFile" value="C:\SoftwareTools\apache-maven-3.5.3\conf\settings.xml" />
@@ -71,6 +290,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="hive" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -80,7 +300,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spark-sql/input" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spark-streaming/src/main/scala/kafka/WordCount2.scala" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -90,38 +310,32 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../spark0830/spark-core-project/src/main/scala/com/atguigu/spark/project/acc/CategoryAcc.scala" />
+    <property name="settings.editor.selected.configurable" value="SQL Resolution Scopes" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/spark-streaming/src/main/scala/kafka/WordCount2.scala" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\SSDData\data\idea3\spark_on_github\spark-sql\input" />
+      <recent name="I:\SSDData\data\idea3\spark_on_github\one\src" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\SSDData\data\idea3\spark_on_github\spark-streaming\src\main\resources" />
+      <recent name="I:\SSDData\data\idea3\spark_on_github\spark-sql-project\src\main\resources" />
       <recent name="I:\SSDData\data\idea3\spark_on_github\spark-sql\input" />
       <recent name="I:\SSDData\data\idea3\spark_on_github\spark-sql\src\main\resources" />
       <recent name="I:\SSDData\data\idea3\spark_on_github\Spark-core\src\main\resources" />
-      <recent name="I:\SSDData\data\idea3\spark_on_github\two\src\main\java" />
-      <recent name="I:\SSDData\data\idea3\spark_on_github\two\src\main\resources" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="I:\SSDData\data\idea3\spark_on_github\one\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="CreateDS" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="CreateDS" />
-      <module name="spark-sql" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.bai.app.MyApp" />
-      <module name="Spark-core" />
+  <component name="RunManager" selected="Application.WordCount3">
+    <configuration name="MyReceiverDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.bai.MyReceiverDemo" />
+      <module name="spark-streaming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bai.bean.*" />
+          <option name="PATTERN" value="com.bai.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,19 +343,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="spark-sql" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="day5.test2" />
-      <module name="Spark-core" />
+    <configuration name="WordCount (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="kafka.WordCount" />
+      <module name="spark-streaming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day5.*" />
+          <option name="PATTERN" value="kafka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +356,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test3" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="day5.test3" />
-      <module name="Spark-core" />
+    <configuration name="WordCount1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="kafka.WordCount1" />
+      <module name="spark-streaming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day5.*" />
+          <option name="PATTERN" value="kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spark.streaming.day01.kafka.WordCount2" />
+      <module name="spark-streaming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.spark.streaming.day01.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.bai.WordCount3" />
+      <module name="spark-streaming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bai.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +397,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.CreateDS" />
-        <item itemvalue="Application.MyApp" />
-        <item itemvalue="Application.test3" />
-        <item itemvalue="Application.test2" />
+        <item itemvalue="Application.WordCount3" />
+        <item itemvalue="Application.MyReceiverDemo" />
+        <item itemvalue="Application.WordCount1" />
+        <item itemvalue="Application.WordCount2" />
+        <item itemvalue="Application.WordCount (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +451,14 @@
       <workItem from="1578708846058" duration="5100000" />
       <workItem from="1578719447332" duration="7376000" />
       <workItem from="1578735763486" duration="4837000" />
-      <workItem from="1578788717435" duration="2450000" />
+      <workItem from="1578788717435" duration="8416000" />
+      <workItem from="1578807249333" duration="6610000" />
+      <workItem from="1578876061610" duration="13007000" />
+      <workItem from="1578900366560" duration="101000" />
+      <workItem from="1578900491882" duration="2082000" />
+      <workItem from="1578902688468" duration="5915000" />
+      <workItem from="1578912750721" duration="99000" />
+      <workItem from="1578913022008" duration="2127000" />
     </task>
     <task id="LOCAL-00001" summary="gdg">
       <created>1578320156939</created>
@@ -325,7 +565,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578659375877</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2020年1月12日9:57:57">
+      <created>1578794294671</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1578794294671</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,29 +588,34 @@
     <MESSAGE value="2020年1月8日19:19:58" />
     <MESSAGE value="2020年1月10日15:36:43" />
     <MESSAGE value="2020年1月10日20:29:15" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年1月10日20:29:15" />
+    <MESSAGE value="2020年1月12日9:57:57" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年1月12日9:57:57" />
   </component>
   <component name="WindowStateProjectService">
     <state x="581" y="228" key="#Deployment" timestamp="1578400985881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="581" y="228" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1578400985881" />
-    <state x="1011" y="336" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1578790539861">
+    <state x="1011" y="336" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1578800805319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1011" y="336" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578790539861" />
-    <state x="801" y="353" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578710976772">
+    <state x="1011" y="336" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578800805319" />
+    <state x="294" y="164" width="816" height="675" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578909947271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="801" y="353" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578710976772" />
+    <state x="294" y="164" width="816" height="675" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578909947271" />
+    <state x="801" y="353" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578817936153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="801" y="353" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578817936153" />
     <state x="1103" y="407" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1578400872999">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1103" y="407" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578400872999" />
-    <state x="986" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1578737155012">
+    <state x="986" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1578913593473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="986" y="274" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578737155012" />
+    <state x="986" y="274" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578913593473" />
     <state x="802" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578740066265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -384,18 +636,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="982" y="461" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1578627731006" />
-    <state x="773" y="162" key="CommitChangelistDialog2" timestamp="1578659371270">
+    <state x="644" y="169" key="CommitChangelistDialog2" timestamp="1578915361211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="773" y="162" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578659371270" />
-    <state x="517" y="194" width="1331" height="705" maximized="true" key="DiffContextDialog" timestamp="1578661655241">
+    <state x="644" y="169" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578915361211" />
+    <state x="517" y="194" width="1331" height="705" maximized="true" key="DiffContextDialog" timestamp="1578912848846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="517" y="194" width="1331" height="705" maximized="true" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578661655241" />
-    <state x="959" y="286" width="601" height="484" key="FileChooserDialogImpl" timestamp="1578738789603">
+    <state x="517" y="194" width="1331" height="705" maximized="true" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578912848846" />
+    <state x="906" y="377" width="601" height="484" key="FileChooserDialogImpl" timestamp="1578912825178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="959" y="286" width="601" height="484" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578738789603" />
+    <state x="906" y="377" width="601" height="484" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578912825178" />
     <state x="1005" y="442" width="373" height="172" key="Github.CreateGistDialog" timestamp="1578309653877">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -404,22 +656,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1031" y="423" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578309243852" />
-    <state width="1202" height="298" key="GridCell.Tab.0.bottom" timestamp="1578791374098">
+    <state width="1431" height="235" key="GridCell.Tab.0.bottom" timestamp="1578915151491">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1202" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578791374098" />
-    <state width="1202" height="298" key="GridCell.Tab.0.center" timestamp="1578791374097">
+    <state width="1431" height="235" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578915151491" />
+    <state width="1431" height="235" key="GridCell.Tab.0.center" timestamp="1578915151491">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1202" height="298" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578791374097" />
-    <state width="1202" height="298" key="GridCell.Tab.0.left" timestamp="1578791374097">
+    <state width="1431" height="235" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578915151491" />
+    <state width="1431" height="235" key="GridCell.Tab.0.left" timestamp="1578915151491">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1202" height="298" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578791374097" />
-    <state width="1202" height="298" key="GridCell.Tab.0.right" timestamp="1578791374098">
+    <state width="1431" height="235" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578915151491" />
+    <state width="1431" height="235" key="GridCell.Tab.0.right" timestamp="1578915151491">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1202" height="298" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578791374098" />
+    <state width="1431" height="235" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578915151491" />
     <state width="1202" height="278" key="GridCell.Tab.1.bottom" timestamp="1578740605250">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -436,6 +688,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1202" height="278" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578740605250" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1578910046294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1578910046294" />
     <state x="761" y="303" key="IDE.errors.dialog" timestamp="1578710002386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -444,18 +700,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="819" y="231" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578309133473" />
-    <state x="293" y="324" width="1139" height="710" key="SettingsEditor" timestamp="1578738794722">
+    <state x="487" y="127" width="1139" height="710" key="SettingsEditor" timestamp="1578909658177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="293" y="324" width="1139" height="710" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578738794722" />
+    <state x="487" y="127" width="1139" height="710" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578909658177" />
     <state x="933" y="285" width="549" height="524" key="StructurePopup" timestamp="1578717997694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="933" y="285" width="549" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1578717997694" />
-    <state x="773" y="302" key="Vcs.Push.Dialog.v2" timestamp="1578641837893">
+    <state x="773" y="302" key="Vcs.Push.Dialog.v2" timestamp="1578800738113">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="773" y="302" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578641837893" />
+    <state x="773" y="302" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578800738113" />
     <state x="845" y="474" key="WebDeployment.AddServerDialog.v.1" timestamp="1578399765804">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -464,22 +720,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="593" y="224" width="1177" height="684" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578322717417" />
-    <state x="976" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578321042117">
+    <state x="976" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578901191398">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="976" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578321042117" />
-    <state x="583" y="174" key="new project wizard" timestamp="1578740006140">
+    <state x="976" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578901191398" />
+    <state x="583" y="174" key="new project wizard" timestamp="1578900564393">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="583" y="174" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578740006140" />
+    <state x="583" y="174" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578900564393" />
     <state x="946" y="484" width="672" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1578399033230">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="946" y="484" width="672" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578399033230" />
-    <state x="842" y="276" width="672" height="678" key="search.everywhere.popup" timestamp="1578740225378">
+    <state x="842" y="276" width="672" height="678" key="search.everywhere.popup" timestamp="1578912764104">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="842" y="276" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578740225378" />
+    <state x="842" y="276" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578912764104" />
     <state x="995" y="434" key="svn.passwordDialog" timestamp="1578308501650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
