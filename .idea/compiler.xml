@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="two" />
         <module name="Spark-core" />
+        <module name="spark-streaming-project" />
         <module name="spark-streaming" />
         <module name="spark-sql" />
         <module name="spark-sql-project" />
